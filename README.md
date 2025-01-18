@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects ![recipify](recipify.online)/<br><br>👯 I’m looking to collaborate on React, Next, Vue and Nuxt<br><br>🎓 I'm looking to pursue my Master's degree in Data Science<br><br>🌱 I’m currently learning Web App Development (Next, Vue, Nuxt, DevOps, NoSQL, Ionic)<br><br>💬 Ask me about Technologies
+🔭 I’m currently working on personal projects ![recipify](recipify.online)<br><br>👯 I’m looking to collaborate on React, Next, Vue and Nuxt<br><br>🎓 I'm looking to pursue my Master's degree in Data Science<br><br>🌱 I’m currently learning Web App Development (Next, Vue, Nuxt, DevOps, NoSQL, Ionic)<br><br>💬 Ask me about Technologies
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Salam20201/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abdulsalam_sultan20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/salam-ghaleb/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Salam20201/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abdulsalam_sultan20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salam-ghaleb/) 
 
 # 💻 Tech Stack:
 ### **Languages**
