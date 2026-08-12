@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects [Koprey](https://koprey.kayat.site/)<br><br>👯 I’m looking to collaborate on React, Next, Vue and Nuxt<br><br>🎓 I'm looking to pursue my Master's degree in Data Science<br><br>🌱 I’m currently learning Web App Development (Next, Vue, Nuxt, DevOps, NoSQL, Ionic)<br><br>💬 Ask me about Technologies
+🔭 I’m currently working on personal projects [Koprey](https://koprey.kayat.site/)<br><br>👯 I’m looking to collaborate on React, Next, Vue and Nuxt<br><br>🎓 I'm looking to pursue my Master's degree in Data Science<br><br>🌱 I’m currently learning Web App Development (Next, Vue, Nuxt, Sveltekit, DevOps, NoSQL, Ionic)<br><br>💬 Ask me about Technologies
 
 
 ## 🌐 Socials:
